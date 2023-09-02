@@ -1,3 +1,3 @@
+![tourism page - agra](https://github.com/khumanshusingh/agra-tourism-page/assets/90241431/33797d46-630d-4284-a28a-b2a6d14c4bdd)
 
-![tourism page - agra](https://github.com/khumanshusingh/agra-tourism-page/assets/90241431/ae1eaf26-b31d-4cb6-87a0-aa5b9e68bbf3)
 
