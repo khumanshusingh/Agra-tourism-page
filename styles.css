@@ -63,10 +63,10 @@ nav ul li {
 }
 .activities-section {
   text-align: center;
-  padding-top: 3rem;
+  padding-top: 1.5rem;
 }
 .activities-section h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .activities-section p {
   font-size: 1.5rem;
@@ -74,7 +74,7 @@ nav ul li {
 }
 .card {
   width: 300px;
-  height: 400px;
+  height: 360px;
   background-color: azure;
   text-align: left;
 }
@@ -91,7 +91,7 @@ nav ul li {
   align-items: center;
 }
 .content {
-  padding: 10px;
+  padding: 4px;
 }
 .card button {
   border: none;
