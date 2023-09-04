@@ -66,15 +66,17 @@ nav ul li {
   padding-top: 1.5rem;
 }
 .activities-section h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 .activities-section p {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin-top: 1rem;
 }
 .card {
   width: 300px;
   height: 360px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px bisque;
   background-color: azure;
   text-align: left;
 }
@@ -83,12 +85,15 @@ nav ul li {
   height: 200px;
   background: url("https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg");
   background-size: cover;
+  border-radius: 8px;
 }
 .card-flex {
   margin-top: 2rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 0 8px white;
 }
 .content {
   padding: 4px;
@@ -108,6 +113,10 @@ nav ul li {
   font-size: 3rem;
   margin-top: 3rem;
 }
+.guide-container p {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
 .guide-card {
   height: 250px;
   width: 600px;
@@ -122,6 +131,7 @@ nav ul li {
 
 .guide-card img {
   width: 250px;
+  border-radius: 8px;
 }
 .guide-info {
   text-align: left;
